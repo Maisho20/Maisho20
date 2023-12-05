@@ -15,7 +15,7 @@
 ## Social Media
 
 <p align="center">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white"><a src="https://www.linkedin.com/in/sabbaha-naufal-472b5629b/" target="_blank"></a></img>
+<a src="https://www.linkedin.com/in/sabbaha-naufal-472b5629b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white"></img></a>
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=plastic&labelColor=fff&logo=Gmail&logoColor=c4302b"><a src="mailto:bahajazz70@gmail.com" target="_blank"></a></img>
 <img src="https://img.shields.io/badge/-Instagram-e4405f?style=plastic&labelColor=e4405f&logo=instagram&logoColor=white"><a src="https://www.instagram.com/_.zen._20" target="_blank"></a></img>
 <img src="https://img.shields.io/badge/Steam-000000?style=plastic&labelColor=black&logo=steam&logoColor=white"><a src="https://steamcommunity.com/profiles/76561198385526672/" target="_blank"></a></img>
