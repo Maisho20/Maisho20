@@ -29,7 +29,7 @@
 - 👨🏽‍💻 I’m currently Studying at Politeknik Negeri Malang
 - 🌱 I’m currently Web develope, Mobile develope and machine learning
 - 👯 I'm very happy if you want to work together with me 🤝
-- ⚡️ Besides Programming , I loves Music and playing Dota 2.<br>(Ps: and i also love you <3, (灬°ω°灬) )
+- ⚡️ Besides Programming , I loves Music and playing Dota 2.
 - 🤔 I'm also interested about UI/UX design
 
 <br><br><br>
