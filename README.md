@@ -1,7 +1,7 @@
 <div>
 <h1 align="center">Hi everyone :3 <img src="https://media.giphy.com/media/VTwDfhNOmMxZMm2iYf/giphy.gif" width=5%></img> 
 <br>My name Sabbaha Naufal Erwanda</h1>
-<h2 align="center">Informatics Engineering Student</h2>
+<h2 align="center">Fresh Graduate At State Polytechnic of Malang: Informatics Engineering</h2>
 </div>
 
 <p align="center">
@@ -21,16 +21,16 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/492548628653539330)
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/8BlByFsU4FZJ41AJpd/giphy.gif" width="200" height="auto"></img>
+```<img align="right" alt="GIF" src="https://media.giphy.com/media/8BlByFsU4FZJ41AJpd/giphy.gif" width="200" height="auto"></img>```
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="275" height="auto"></img>
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently Studying at Politeknik Negeri Malang
-- 🌱 I’m currently Web develope, Mobile develope and machine learning
+- 👨🏽‍💻 I’m a Graduate From the State Polytechnic of Malang in July 2025
+- 🌱 I’m currently a Web developer, Mobile developer, and machine learning
 - 👯 I'm very happy if you want to work together with me 🤝
-- ⚡️ Besides Programming , I loves Music and playing Dota 2.
-- 🤔 I'm also interested about UI/UX design
+- ⚡️ Besides Programming, I love Music and playing Dota 2.
+- 🤔 I'm also interested in UI/UX design
 
 <br><br><br>
 
@@ -55,3 +55,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Maisho20&show_icons=true&theme=radical&show_icons=true"></img>
 </p>
 <br><br><br><br><br><br><br><br><br>
+
