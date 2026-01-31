@@ -26,11 +26,11 @@
 
 **Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Graduate From the State Polytechnic of Malang in July 2025
+- 👨🏽‍💻 I’m a Fresh Graduate From the State Polytechnic of Malang in July 2025
 - 🌱 I’m currently a Web developer, Mobile developer, and machine learning
 - 👯 I'm very happy if you want to work together with me 🤝
-- ⚡️ Besides Programming, I love Music and playing Dota 2.
-- 🤔 I'm also interested in UI/UX design
+- ⚡️ Besides Programming, I love Music.
+- 🤔 I'm also interested in UI/UX design and QA
 
 <br><br><br>
 
@@ -55,4 +55,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Maisho20&show_icons=true&theme=radical&show_icons=true"></img>
 </p>
 <br><br><br><br><br><br><br><br><br>
+
 
