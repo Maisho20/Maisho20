@@ -21,7 +21,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=plastic&logo=discord&logoColor=white)](https://discordapp.com/users/492548628653539330)
 
 
-```<img align="right" alt="GIF" src="https://media.giphy.com/media/8BlByFsU4FZJ41AJpd/giphy.gif" width="200" height="auto"></img>```
+<!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/8BlByFsU4FZJ41AJpd/giphy.gif" width="200" height="auto"></img> -->
 <img align="right" alt="GIF" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="275" height="auto"></img>
 
 **Personal Stuffs:**
@@ -55,5 +55,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Maisho20&show_icons=true&theme=radical&show_icons=true"></img>
 </p>
 <br><br><br><br><br><br><br><br><br>
+
 
 
